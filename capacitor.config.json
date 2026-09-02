@@ -1,0 +1,9 @@
+{
+  "appId": "com.zues.blueprint",
+  "appName": "Zues",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "always"
+  }
+}
